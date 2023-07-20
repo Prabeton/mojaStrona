@@ -1,0 +1,68 @@
+body {
+  background-color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+}
+
+#flagahtml {
+  width: 120 px;
+  border: 1px solid black;
+  border-radius: 6px; 
+    
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  width: 1800px;
+  height: 900px;
+}
+
+#codeGrafika {
+  width: 80px;
+  height: 80px;
+}
+#equalizer {
+  width: 400px;
+  height: 200px;
+  border: #111 solid 2px;
+  border-radius: 20px;
+}
+#right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#central {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#mailGrafika {
+  width: 70px;
+  height: 70px;
+}
+#logoBox {
+  width: 500px;
+  height: 500px;
+}
+#logoGrafika {
+  width: 500px;
+  height: 500px;
+}
+p {
+  font-size: 16px;
+}
+#rightRight {
+  display: flex;
+  align-self: self-end;
+}
